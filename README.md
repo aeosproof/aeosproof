@@ -7,7 +7,7 @@ I like difficult problems, reproducible results, and systems that can explain *w
 ### Currently working on
 
 - **[ENS smart-wallet compatibility](https://github.com/ensdomains/ens-contracts/pull/577)** — contributing a fix for refund paths that can fail under Solidity's 2,300-gas `transfer()` stipend.
-- **AEOS / Boreal Proof** — evidence-centric infrastructure for data provenance, deterministic reconciliation, and verifiable claims.
+- **[AEOS / Boreal Proof](https://aeosinstitutet.se/)** — evidence-centric infrastructure for data provenance, deterministic reconciliation, and verifiable claims.
 - **Adversarial testing** — fuzzing, regression suites, invariant analysis, and trying to prove my own assumptions wrong before someone else does.
 
 ### Engineering philosophy
