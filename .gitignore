@@ -1,0 +1,7 @@
+.env
+cache/
+out/
+broadcast/
+gma-out/
+gma-out-mcp/
+node_modules/

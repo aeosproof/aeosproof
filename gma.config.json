@@ -1,0 +1,16 @@
+{
+  "$schema": "https://gitmyabi.com/schema/gma.config.json",
+  "packageName": "aeosproof",
+  "packageVersion": "0.1.0",
+  "framework": "foundry",
+  "output": "./gma-out",
+  "tar": "./gma-out/aeosproof-0.1.0.tgz",
+  "target": "viem",
+  "generateMcp": true,
+  "registry": "https://registry.npmjs.org",
+  "access": "public",
+  "tokenEnv": "NPM_TOKEN",
+  "includeTestsAndScripts": false,
+  "includeStandardLibraryAbis": false,
+  "projectName": "aeosproof"
+}
