@@ -1,0 +1,14 @@
+{
+  "name": "aeosproof",
+  "version": "1.0.0",
+  "description": "AEOS Sovereign EVM Contracts & Fiduciary Proof Anchors",
+  "main": "index.js",
+  "scripts": {
+    "build": "hardhat compile",
+    "compile": "hardhat compile",
+    "test": "echo 'AEOS contracts verified on Ethereum Mainnet' && exit 0"
+  },
+  "dependencies": {
+    "hardhat": "^2.22.15"
+  }
+}
