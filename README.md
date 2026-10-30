@@ -57,7 +57,7 @@ Verify the immutable notarization directly from any terminal using `cast`:
 cast call 0x5Bd889Fb8fa5D17a7517cB46B3d71f5e12B32DE9 \
   "verifyDigest(bytes32)(bool)" \
   0x6a40bf77c2ba34e9000d50d82241fc4526b0c11ceb2382131ba653fd88834c4e \
-  --rpc-url https://eth.llamarpc.com
+  --rpc-url https://ethereum-rpc.publicnode.com
 ```
 
 ### 📦 Developer Tools & Dashboard
